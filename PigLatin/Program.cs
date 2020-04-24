@@ -14,7 +14,7 @@ namespace PigLatin
             while (runProgram)
             {
             Console.WriteLine("Welcome to the Pig Latin Language Translator");
-            Console.WriteLine("Please enter a phrase that you want converted.");
+            Console.WriteLine("Please enter a phrase or word that you want to translate.");
 
             string input = Console.ReadLine();
 
@@ -35,7 +35,7 @@ namespace PigLatin
                     }
                     else
                     {
-                        Console.WriteLine("You enter a word that contains a number character. Please try again using only alphabetical characters.");
+                        Console.WriteLine("You entered a word that contains a number character.\nPlease try again using only alphabetical, punctuation, or special characters.");
                     }
                 }
                 else
@@ -128,7 +128,7 @@ namespace PigLatin
 
             while (askRerun)
             {
-            Console.WriteLine("Do you want run the Pig Latin Converter Again? (y/n)");
+            Console.WriteLine("Do you want to run the Pig Latin Converter Again? (y/n)");
             string reRunInput = Console.ReadLine();
 
                 if(reRunInput == "y")

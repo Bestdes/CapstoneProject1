@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\PigLatin\\PigLatin\\PigLatin.csproj": {}
+    "C:\\Users\\desha\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\PigLatin\\PigLatin\\PigLatin.csproj": {
+    "C:\\Users\\desha\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\PigLatin\\PigLatin\\PigLatin.csproj",
+        "projectUniqueName": "C:\\Users\\desha\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj",
         "projectName": "PigLatin",
-        "projectPath": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\PigLatin\\PigLatin\\PigLatin.csproj",
+        "projectPath": "C:\\Users\\desha\\source\\repos\\PigLatin\\PigLatin\\PigLatin.csproj",
         "packagesPath": "C:\\Users\\desha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\PigLatin\\PigLatin\\obj\\",
+        "outputPath": "C:\\Users\\desha\\source\\repos\\PigLatin\\PigLatin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desha\\AppData\\Roaming\\NuGet\\NuGet.Config",
